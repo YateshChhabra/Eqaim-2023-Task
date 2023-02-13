@@ -1,0 +1,18 @@
+
+
+td:nth-child(even) {
+    color: yellow;
+}
+
+td:nth-child(odd) {
+    color: red;
+}
+
+tr.steps > td:first-child {
+    color: blue; 
+}
+
+thead.tableHeader  td:first-child, tfoot.tableFooter  td:first-child {
+   
+    color: yellow;
+}
