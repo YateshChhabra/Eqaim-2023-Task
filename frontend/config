@@ -1,0 +1,2 @@
+First we have to run node install in frontend folder after that it will install all the packages for that  task required
+After that we have to run the command <npm run star>t it will start the server on prt 3000.
