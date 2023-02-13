@@ -1,0 +1,3 @@
+First You need to run the npm i to install the packages that are available in package.json
+After all  packages are install then we have to run the app.js file using node app
+Now our backend server starts at port 1234 if there is no PORT define in .env file
